@@ -1,3 +1,7 @@
+#
+# You can also check the number of tokens at the following link
+# https://platform.openai.com/tokenizer
+#
 import tiktoken
 
 
